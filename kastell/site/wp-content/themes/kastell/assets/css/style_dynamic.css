@@ -1,0 +1,39 @@
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/contactform7/custom-styles/contact-form.php kastell_mkdf_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #7b7b7b;background-color: rgba(255, 255, 255, 1);}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/contactform7/custom-styles/contact-form.php kastell_mkdf_contact_form7_label_styles_1 function */
+.cf7_custom_style_1 p { color: #7b7b7b;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/contactform7/custom-styles/contact-form.php kastell_mkdf_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #ffffff;font-size: 14px;border-color: rgba(64, 64, 64, 1);margin-bottom: 35px;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/contactform7/custom-styles/contact-form.php kastell_mkdf_contact_form7_label_styles_2 function */
+.cf7_custom_style_2 p { color: #ffffff;font-size: 14px;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/error404/custom-styles/custom-styles.php kastell_mkdf_404_page_general_styles function */
+.mkdf-404-page .mkdf-content { background-image: url(../../../../uploads/2018/01/error-page-background.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/error404/custom-styles/custom-styles.php kastell_mkdf_404_title_styles function */
+.mkdf-404-page .mkdf-page-not-found .mkdf-404-title { color: #bf9410;font-size: 120px;line-height: 120px;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/error404/custom-styles/custom-styles.php kastell_mkdf_404_subtitle_styles function */
+.mkdf-404-page .mkdf-page-not-found .mkdf-404-subtitle { font-size: 60px;line-height: 60px;font-weight: 400;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/error404/custom-styles/custom-styles.php kastell_mkdf_404_text_styles function */
+.mkdf-404-page .mkdf-page-not-found .mkdf-404-text { line-height: 75px;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/header/types/sticky-header/admin/custom-styles/sticky-header-custom-styles.php kastell_mkdf_sticky_header_styles function */
+.mkdf-page-header .mkdf-sticky-header .mkdf-sticky-holder { border-color: #ffffff;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php kastell_mkdf_header_top_bar_styles function */
+.mkdf-top-bar-background { height: 91px;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/header/admin/custom-styles/header-custom-styles.php kastell_mkdf_header_menu_area_styles function */
+.mkdf-page-header .mkdf-menu-area { box-shadow: 0px 5px 12.09px 0.91px rgba(144, 144, 154, 0.07);}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/header/admin/custom-styles/header-custom-styles.php kastell_mkdf_header_logo_area_styles function */
+.mkdf-header-centered .mkdf-logo-area .mkdf-logo-wrapper { padding: ;}
+
+/* generated in /home/qodeinteractive/kastell/public_html/wp-content/themes/kastell/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php kastell_mkdf_side_area_styles function */
+.mkdf-side-menu { background-color: #bfbfbf;}
+
